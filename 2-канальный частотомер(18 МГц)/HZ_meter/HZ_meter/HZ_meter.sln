@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HZ_meter", "HZ_meter\HZ_meter.vcxproj", "{EDB6CE3E-B351-449C-AB3C-2A689551D916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB6CE3E-B351-449C-AB3C-2A689551D916}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{EDB6CE3E-B351-449C-AB3C-2A689551D916}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{EDB6CE3E-B351-449C-AB3C-2A689551D916}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{EDB6CE3E-B351-449C-AB3C-2A689551D916}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B44020-4512-48AB-BAC1-3EB62F522563}
+	EndGlobalSection
+EndGlobal
